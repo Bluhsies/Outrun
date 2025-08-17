@@ -4,6 +4,7 @@ A link to the full presentation highlighting key aspects of the game can be loca
 
 
 Developers:
+
 Ian Corkill
 Harvey Palmer
 Max Evans
